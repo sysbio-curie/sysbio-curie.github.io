@@ -15,12 +15,15 @@ This directory contains codes, example datasets, and analyses centered on the ap
 ## Figures
 
 [3D Force directed layout derived for xenopus stage 22 embryos](xeno_k5_fd/) - Interactive figure (see Albergante et al, 2018 for details)
+
 [3D Force directed layout with the fitted consensus graph for xenopus stage 22 embryos](xeno_k5_consensus/) - Interactive figure (see Albergante et al, 2018 for details)
 
 ## External links
 
 [ElPiGraph.R](https://github.com/sysbio-curie/ElPiGraph.R)
+
 [ElPiGraph.M](https://github.com/sysbio-curie/ElPiGraph.M)
+
 [ElPiGraph.P](https://github.com/sysbio-curie/ElPiGraph.P)
 
 ## References
