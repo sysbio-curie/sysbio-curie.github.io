@@ -11,7 +11,9 @@ This directory contains codes, example datasets, and analyses centered on the ap
 
 [Branching pseudotime reconstruction from Nestorowa et la. with MLLE](roscoff_sct_nesto_mlle/index.html)
 
-[Branching pseudotime reconstruction from Nestorowa et la. with pca](roscoff_sct_nesto_pca/index.html)
+[Branching pseudotime reconstruction from Nestorowa et la. with PCA](roscoff_sct_nesto_pca/index.html)
+
+[Linear pseudotime reconstruction from Schlitzer et la. with MLLE and PCA](roscoff_sct_nesto_pca/index.html)
 
 ## Figures
 
