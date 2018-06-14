@@ -38,5 +38,6 @@ This directory contains codes, example datasets, and analyses centered on the ap
 ## Contact
 
 [Luca Albergante](https://github.com/Albluca)
+
 [Andrei Zinovyev](https://github.com/auranic/)
 
