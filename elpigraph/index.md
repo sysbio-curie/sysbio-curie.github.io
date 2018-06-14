@@ -1,4 +1,6 @@
-# ElPiGraph example gallery
+# ElPiGraph
+
+ElPiGraph (ELastic PrIncipal Graph) is the method for approximating datasets having complex topologies.
 
 This directory contains codes, example datasets, and analyses centered on the application of ElPiGraph to different types of data.
 
@@ -21,13 +23,13 @@ This directory contains codes, example datasets, and analyses centered on the ap
 
 [3D Force directed layout with the fitted consensus graph for xenopus stage 22 embryos](xeno_k5_consensus/index.html) - Interactive figure (see Albergante et al, 2018 for details)
 
-## External links
+## ElPiGraph implementations
 
-[ElPiGraph.R](https://github.com/sysbio-curie/ElPiGraph.R)
+[ElPiGraph.R](https://github.com/sysbio-curie/ElPiGraph.R) - implementation of ElPiGraph in R
 
-[ElPiGraph.M](https://github.com/sysbio-curie/ElPiGraph.M)
+[ElPiGraph.M](https://github.com/sysbio-curie/ElPiGraph.M) - implementation of ElPiGraph in MATLAB
 
-[ElPiGraph.P](https://github.com/sysbio-curie/ElPiGraph.P)
+[ElPiGraph.P](https://github.com/sysbio-curie/ElPiGraph.P) - implementation of ElPiGraph in Python
 
 ## References
 
@@ -35,4 +37,6 @@ This directory contains codes, example datasets, and analyses centered on the ap
 
 ## Contact
 
+[Luca Albergante](https://github.com/Albluca)
+[Andrei Zinovyev](https://github.com/auranic/)
 
