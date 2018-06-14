@@ -29,7 +29,7 @@ This directory contains codes, example datasets, and analyses centered on the ap
 
 ## References
 
-[Albergante et al, Robust and scalable learning of data manifolds with complex topologies via ElPiGraph, 2018, preprint](https://arxiv.org/abs/1804.07580) - 
+[Albergante et al, Robust and scalable learning of data manifolds with complex topologies via ElPiGraph, 2018, preprint](https://arxiv.org/abs/1804.07580)
 
 ## Contact
 
