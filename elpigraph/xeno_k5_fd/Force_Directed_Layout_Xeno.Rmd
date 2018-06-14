@@ -1,0 +1,47 @@
+---
+title: "Force directed layout (Stage 22 Xenopus embryo)"
+output:
+  html_document:
+    df_print: paged
+---
+
+```{r, echo=FALSE, fig.height=10}
+load("~/Desktop/XenoK5_4.RData")
+
+suppressWarnings(library(rgl))
+suppressMessages(library(igraph))
+
+# open3d()
+
+# par3d("windowRect"= c(0,0,1000,1000))
+# rgl.viewpoint(  zoom = .7 )
+
+plot3d(x = Graph.FR.1, col = igraph::V(ExpData.Graph.Fil.2)$col)
+
+Final_EdgList <- igraph::get.edgelist(ExpData.Graph.Fil.2)
+
+segments3d(x = Graph.FR.1[as.vector(t(Final_EdgList)),1],
+           y = Graph.FR.1[as.vector(t(Final_EdgList)),2],
+           z = Graph.FR.1[as.vector(t(Final_EdgList)),3], alpha = .2)
+
+rglwidget()
+
+```
+
+The following color scale is used to represent cell type
+
+```{r color, echo=FALSE}
+ColVect <- V(ExpData.Graph.Fil.2)$col
+names(ColVect) <- V(ExpData.Graph.Fil.2)$type
+
+ColVect <- ColVect[!duplicated(ColVect)]
+
+par(mar=c(0, 15, 0, 0))
+
+barplot(rep(1, length(ColVect)), horiz = TRUE, col = ColVect, border = NA,
+        names.arg = names(ColVect), las = 2, cex.names = .6)
+```
+
+
+
+
