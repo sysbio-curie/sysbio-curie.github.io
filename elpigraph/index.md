@@ -26,7 +26,7 @@ This directory contains codes, example datasets, and analyses centered on the ap
 
 [ElPiGraph.M](https://github.com/sysbio-curie/ElPiGraph.M) - implementation of ElPiGraph in MATLAB (Less options than Python and R version)
 
-[ElPiGraph.Java](https://github.com/auranic/VDAOEngine/)) - implementation of ElPiGraph as part of the VDAO engine
+[ElPiGraph.Java](https://github.com/auranic/VDAOEngine/) - implementation of ElPiGraph as part of the VDAO engine
 
 [ElPiGraph.Scala](https://github.com/mraad/elastic-graph) - implementation of ElPiGraph in Scala
 
