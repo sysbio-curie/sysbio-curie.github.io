@@ -1,13 +1,8 @@
 # ElPiGraph
 
-ElPiGraph (ELastic PrIncipal Graph) is the method for approximating datasets having complex topologies.
+ElPiGraph (Elastic Principal Graph) is a method for approximating datasets with complex topologies.
 
 This directory contains codes, example datasets, and analyses centered on the application of ElPiGraph to different types of data.
-
-## Datasets
-
-## Code
-
 
 ## Notebooks (containing code and figures)
 
@@ -25,17 +20,20 @@ This directory contains codes, example datasets, and analyses centered on the ap
 
 ## ElPiGraph implementations
 
-[ElPiGraph.R](https://github.com/sysbio-curie/ElPiGraph.R) - implementation of ElPiGraph in R
+[ElPiGraph.R](https://github.com/sysbio-curie/ElPiGraph.R) - implementation of ElPiGraph in R (most complete functionality and multi-core support)
 
-[ElPiGraph.M](https://github.com/sysbio-curie/ElPiGraph.M) - implementation of ElPiGraph in MATLAB
+[ElPiGraph.P](https://github.com/j-bac/elpigraph-python) - implementation of ElPiGraph in Python (Equivalent to R version, multi-core and GPU support. Missing some of the plotting functionalities)
 
-[ElPiGraph.P](https://github.com/sysbio-curie/ElPiGraph.P) - implementation of ElPiGraph in Python
+[ElPiGraph.M](https://github.com/sysbio-curie/ElPiGraph.M) - implementation of ElPiGraph in MATLAB (Less options than Python and R version)
+
 
 ## References
 
 [Albergante et al, Robust and scalable learning of data manifolds with complex topologies via ElPiGraph, 2018, preprint](https://arxiv.org/abs/1804.07580)
 
 ## Contact
+
+[Jonathan Bac](https://github.com/j-bac)
 
 [Luca Albergante](https://github.com/Albluca)
 
