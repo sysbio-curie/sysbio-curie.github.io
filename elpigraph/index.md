@@ -4,7 +4,7 @@ ElPiGraph (Elastic Principal Graph) is a method for approximating datasets with 
 
 This directory contains codes, example datasets, and analyses centered on the application of ElPiGraph to different types of data.
 
-<img width=50% src='images/elpigraph_image.jpg'/>
+![alt ElPiGraph reconstructions](images/elpigraph_image.jpg)
 
 ## Datasets
 
