@@ -4,16 +4,12 @@ ElPiGraph (Elastic Principal Graph) is a method for approximating datasets with 
 
 This directory contains codes, example datasets, and analyses centered on the application of ElPiGraph to different types of data.
 
-<<<<<<< HEAD
 <img width=50% src='images/elpigraph_image.jpg'/>
 
 ## Datasets
 
 ## Code
 
-
-=======
->>>>>>> origin/master
 ## Notebooks (containing code and figures)
 
 [Branching pseudotime reconstruction from Nestorowa et la. with MLLE](roscoff_sct_nesto_mlle/index.html)
@@ -47,14 +43,11 @@ This directory contains codes, example datasets, and analyses centered on the ap
 
 ## Contact
 
-<<<<<<< HEAD
-[Andrei Zinovyev](https://auranic.github.io)
-=======
 [Jonathan Bac](https://github.com/j-bac)
->>>>>>> origin/master
 
 [Luca Albergante](https://github.com/Albluca)
 
-[Jonathan Bac](https://github.com/j-bac)
+[Andrei Zinovyev](https://auranic.github.io)
+
 
 
