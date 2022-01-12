@@ -6,3 +6,5 @@ For the SysBio Curie research group website please visit <a href="http://sysbio.
 [ElPiGraph project](elpigraph/index.html)
 
 [Ewing Sarcoma OMICS Atlas project](EwSOmicsAtlas/index.html)
+
+[BIODICA project](biodica/index.html)
