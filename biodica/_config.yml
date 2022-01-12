@@ -7,7 +7,7 @@ description: >
   interpretation of the results in terms of biological functions and associations with metadata.
 lang: en-US
 
-baseurl: "/BIODICA" # the subpath of your site, e.g. /blog/
+baseurl: "/biodica" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 git_address: https://github.com/LabBandSB/BIODICA
 
