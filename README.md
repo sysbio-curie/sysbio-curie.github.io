@@ -8,3 +8,5 @@ For the SysBio Curie research group website please visit <a href="http://sysbio.
 [Ewing Sarcoma OMICS Atlas project](EwSOmicsAtlas/index.html)
 
 [BIODICA](https://sysbio-curie.github.io/biodica-environment/)
+
+[rROMA](https://sysbio-curie.github.io/rROMA/index.html)
